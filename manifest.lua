@@ -1,8 +1,6 @@
 return {
-   version = "0.0.1",
-   files = {
-      "main.lua",
-      "libraries/utils.lua",
-      "libraries/ui.lua",
-   },
+	main = "2026.05.26c",
+	games = {
+		["123974602339071"] = "0.0.1a",
+	},
 }
